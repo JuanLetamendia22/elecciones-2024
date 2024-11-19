@@ -1,3 +1,6 @@
+<?php
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,6 +12,7 @@
 <body>
 <h1>Resultados Elecciones</h1>
 <canvas id="grafico-resultados"></canvas>
+<canvas id="pie-resultados"></canvas>
 
 <script type="text/javascript" src="resultados.js"></script>
 </body>
