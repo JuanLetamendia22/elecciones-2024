@@ -1,0 +1,9 @@
+{ "resultados": [ { "partido": "Frente Amplio", "votos": 1071826, "porcentaje": 43.8 }, {
+    "partido": "Partido Nacional", "votos": 655426, "porcentaje": 26.8 }, { "partido": "Partido Colorado", "votos": 392592, "porcentaje": 16.1 }, { "partido": "Partido Cabildo Abierto",
+    "votos": 60549, "porcentaje": 2.5 }, { "partido": "Partido Independiente", "votos": 41618,
+    "porcentaje": 1.7 }, { "partido": "Partido Ecologista Radical Intransigente", "votos": 9281,
+    "porcentaje": 0.4 }, { "partido": "Partido Asamblea Popular", "votos": 10102, "porcentaje": 0.4
+    }, { "partido": "Partido Identidad Soberana", "votos": 65796, "porcentaje": 2.7 }, { "partido":
+    "Partido Por Los Cambios Necesarios (PCN)", "votos": 3183, "porcentaje": 0.1 }, { "partido":
+    "Partido Constitucional Ambientalista", "votos": 11865, "porcentaje": 0.5 }, { "partido":
+    "Partido Avanzar Republicano", "votos": 1909, "porcentaje": 0.1 } ], "totalVotos": 2443801 }

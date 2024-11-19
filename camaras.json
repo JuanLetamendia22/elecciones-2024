@@ -1,0 +1,6 @@
+{ "senadores": [ { "partido": "Frente Amplio", "cantidad": 16 }, { "partido": "Partido Nacional",
+"cantidad": 9 }, { "partido": "Partido Colorado", "cantidad": 5 } ], "representantes": [ { "partido":
+"Frente Amplio", "cantidad": 48 }, { "partido": "Partido Independiente", "cantidad": 1 }, {
+"partido": "Partido Nacional", "cantidad": 29 }, { "partido": "Cabildo Abierto", "cantidad": 2 }, {
+"partido": "Partido Colorado", "cantidad": 17 }, { "partido": "Identidad Soberana", "cantidad": 2
+} ] }
